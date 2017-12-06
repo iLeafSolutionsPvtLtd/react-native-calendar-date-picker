@@ -1,0 +1,38 @@
+{
+  "name": "react-native-calendar-date-picker",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "moment": "^2.19.2",
+    "react": "16.0.0",
+    "react-native": "0.50.3",
+    "react-native-customised-editable-picker": "0.0.13"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "eslint": "^4.12.0",
+    "eslint-plugin-react": "^7.5.1",
+    "eslint-plugin-react-native": "^3.2.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "keywords": [
+		"react-native",
+    "react native calendar",
+    "calendar date",
+    "react-native calendar date picker"
+  ],
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/iLeafSolutionsPvtLtd/react-native-calendar-date-picker.git"
+  }
+}
