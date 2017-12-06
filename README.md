@@ -16,7 +16,7 @@
     Install the component through npm using:
 
     ```
-    npm install react-native-customised-editable-picker --save
+    npm install react-native-calendar-date-picker --save
     ```
 
   <img src="https://user-images.githubusercontent.com/32927921/33645330-3f44e346-da70-11e7-8a11-5e545f2c1f77.png" width="280"/>
