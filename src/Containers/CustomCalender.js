@@ -15,7 +15,7 @@ let dateArray=[];
 let holidayIndex;
 let firstDay;
 let lastDate;
-export default class Calender extends Component{
+export default class CustomCalender extends Component{
     constructor(){
         super();
         this.state={
@@ -171,7 +171,7 @@ export default class Calender extends Component{
         );
     }
 }
-Calender.propTypes={
+CustomCalender.propTypes={
     week:PropTypes.array,
     holidays:PropTypes.string,
     preDays:PropTypes.string,

@@ -1,4 +1,4 @@
-import CustomCalender from './src/Containers/Calender';
+import CustomCalender from './src/Containers/CustomCalender';
 
 
 export default CustomCalender;
