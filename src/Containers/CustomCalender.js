@@ -158,7 +158,7 @@ export default class CustomCalender extends Component{
                                             index<holidayIndex?
                                                 this.renderHolidays(item,index,this.props.preDays||styles.holidays)
                                                 :
-                                                this.renderHolidays(item,index,this.props.workingDays||styles.holidays)
+                                                this.renderHolidays(item,index,this.props.workingDays||styles.workingDays)
                                         }
                                     </View>
                                 </TouchableOpacity>
