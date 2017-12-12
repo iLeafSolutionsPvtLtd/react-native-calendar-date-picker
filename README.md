@@ -2,10 +2,6 @@
 
     React native calendar date picker component for both android and ios
 
-## Introduction
-
-    Calendar date picker component can be used both as a picker and text input where picker when long pressed turn to text input and new items can be added to the list
-
 ## Features
 
 * styles can be customised
